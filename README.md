@@ -32,7 +32,7 @@ MetroGo is a modern web application that helps users find the fastest metro rout
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/PhoniexCoder/metro-route-optimizer.git
+   git clone https://github.com/PhoniexCoder/Metro-Route-Optimizer.git
    cd metro-route-optimizer
    ```
 
