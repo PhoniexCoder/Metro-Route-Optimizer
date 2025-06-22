@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-text">&copy; {new Date().getFullYear()} MetroGo | Optimizing urban journeys</div>
         <div className="footer-links">
           <a
-            href="https://github.com/yourusername/metro-route-optimizer"
+            href="https://github.com/PhoniexCoder/Metro-Route-Optimizer"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
