@@ -14,7 +14,7 @@ MetroGo is a modern web application that helps users find the fastest metro rout
 
 ## Demo
 
-> _Add a link to your deployed app here (e.g., Vercel, Netlify, GitHub Pages)_
+> metro-route-optimizer.vercel.app
 
 ## Screenshots
 
