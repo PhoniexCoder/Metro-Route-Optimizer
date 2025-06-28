@@ -532,8 +532,6 @@ h6 {
 }
 
 .btn-primary {
-  position: fixed;
-  top: 9rem;
   background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
   color: white;
   box-shadow: 0 4px 6px rgba(99, 102, 241, 0.25);
@@ -988,6 +986,14 @@ h6 {
 }
 
 @media (min-width: 768px) {
+  .btn-primary {
+    position: fixed;
+    top: 9rem;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    box-shadow: 0 4px 6px rgba(99, 102, 241, 0.25);
+    border-radius: var(--radius-md);
+  }
   .route-options {
     grid-template-columns: repeat(2, 1fr);
   }
